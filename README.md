@@ -1,6 +1,6 @@
 ## ✨️✨️✨️
 <h1 align="center">Welcome to my profile</h1>
-<h3 align="center">I'm owner of mfitrah1502</h3>
+<h3 align="center">I'm owner of mfitrah1502. You can call Fitrah and i give a warm greeting to anyone</h3>
 
 ---
 
