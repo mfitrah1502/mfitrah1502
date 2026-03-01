@@ -1,7 +1,7 @@
 ## ✨️Greeting✨️
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&center=true&vCenter=true&size=30&pause=1000&lines=Selamat+Datang+اسلم+وعليكم&color=00FF00&color=0000FF" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&center=true&vCenter=true&size=30&pause=1000&lines=Selamat+Datang&color=00FF00&color=0000FF" />
 </h1>
 <h3 align="center">I'm owner of mfitrah1502. You can call Fitrah and i give a warm greeting to anyone</h3>
 
