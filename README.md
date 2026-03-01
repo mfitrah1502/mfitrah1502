@@ -1,4 +1,4 @@
-## ✨️✨️✨️
+## ✨️Greeting✨️
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&center=true&vCenter=true&size=30&pause=1000&lines=Selamat+Datang&color=00FF00&color=0000FF" />
