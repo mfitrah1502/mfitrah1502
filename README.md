@@ -14,18 +14,26 @@
   <summary><b>Tap here!</b></summary>
   <br>
 
-  💻 Beginner of Developer 
-  Focus on Front-end Developer
-  📍East Java - Indonesia
+  💻 Beginner of Developer <br>
+  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-FF6F00?style=for-the-badge" /><br>
+  Focus on Front-end Developer <br>
+  📍East Java - Indonesia <br>
   Hobby : Listening Music, Workout
 
 </details>
 </p>
 
 ### Science
-- Politeknik Negeri Jember
-- 
+Pendidikan: 
+<br>2024 - Present (Politeknik Negeri Jember)<br>
+2019 - 2022 (SMKN 1 Bondowoso)
+
 ---
+### 🛠️ Tools & Dev Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
 ### Achievement
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mfitrah1502&theme=tokyonight" />
