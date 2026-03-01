@@ -1,4 +1,19 @@
-## Hi there 👋
+## ✨️✨️✨️
+<h1 align="center">Welcome to my profile</h1>
+<h3 align="center">I'm owner of mfitrah1502</h3>
+
+---
+
+### About Me
+- Born and grow in Indonesian, I'm beginner of Developer
+- ✨️
+
+---
+### Science
+- Politeknik Negeri Jember
+- 
+---
+  
 
 <!--
 **mfitrah1502/mfitrah1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
