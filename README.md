@@ -7,11 +7,21 @@
 
 ---
 
-### About Me
-- Born and grow in Indonesian, I'm beginner of Developer
-- ✨️
+<h2 align="center">About Me</h2>
 
----
+<p align="center">
+<details align="left">
+  <summary><b>Tap here!</b></summary>
+  <br>
+
+  💻 Beginner of Developer 
+  Focus on Front-end Developer
+  📍East Java - Indonesia
+  Hobby : Listening Music, Workout
+
+</details>
+</p>
+
 ### Science
 - Politeknik Negeri Jember
 - 
