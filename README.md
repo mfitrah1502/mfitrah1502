@@ -3,13 +3,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&center=true&vCenter=true&size=20&pause=1000&lines=Selamat+datang+di+GitHub+saya+🔥🔥;Welcome+to+my+GitHub+page+🔥🔥&color=FFFFFF&color=FFFFFF" />
 </h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Rubik&color=FFFFFF&center=true&vCenter=true&size=20&pause=100&lines=All+Rights+Reserved+2026;Alterjoo+Copyright+2026;BOOM!&color=FFFFFF&color=FF0000" />
-</h1>
 <h3 align="center">I'm owner of mfitrah1502. You can call Fitrah and i give a warm greeting to anyone</h3>
-<h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&center=true&vCenter=true&size=20&pause=10000&lines=Thank+you;Follow+instagram+:+@agoerahills;Email+:+mfitrah15ofcc@gmail.com&color=FFFFFF&color=ABD829" /></h2>
 
 ---
 
@@ -44,6 +38,11 @@ Pendidikan:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mfitrah1502&theme=tokyonight" />
 </p>
+
+---
+<h2 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&center=true&vCenter=true&size=20&pause=10000&lines=Thank+you;Follow+instagram+:+@agoerahills;Email+:+mfitrah15ofcc@gmail.com&color=FFFFFF&color=ABD829" /></h2>
+
 
   
 
