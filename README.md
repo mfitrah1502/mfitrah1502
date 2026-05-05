@@ -22,15 +22,6 @@
 
 </details>
 </p>
-
-### Science
-Pendidikan: 
-<br>2024 - Present (Politeknik Negeri Jember)<br>
-2019 - 2022 (SMKN 1 Bondowoso)
-
----
-### 🛠️ Tools & Dev Environment
-
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
