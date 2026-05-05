@@ -1,9 +1,9 @@
 ## ✨️Greeting✨️
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&center=true&vCenter=true&size=20&pause=1000&lines=Selamat+datang+di+GitHub+saya+🔥🔥;Welcome+to+my+GitHub+page+🔥🔥&color=FFFFFF&color=FFFFFF" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&center=true&vCenter=true&size=20&pause=1000&lines=Selamat+datang+dan+silahkan+pergi />
 </h1>
-<h3 align="center">I'm owner of mfitrah1502. You can call Fitrah and i give a warm greeting to anyone</h3>
+<h3 align="center">Hai</h3>
 
 ---
 
@@ -34,11 +34,6 @@ Pendidikan:
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
-### Achievement
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mfitrah1502&theme=tokyonight" />
-</p>
-
 ---
 <h2 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&center=true&vCenter=true&size=20&pause=10000&lines=Thank+you;Follow+instagram+:+@agoerahills;Email+:+mfitrah15ofcc@gmail.com&color=FFFFFF&color=ABD829" /></h2>
