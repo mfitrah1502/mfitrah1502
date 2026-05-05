@@ -1,7 +1,7 @@
 ## ✨️Greeting✨️
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&center=true&vCenter=true&size=20&pause=1000&lines=Selamat+datang+dan+silahkan+pergi" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=000000&center=true&vCenter=true&size=20&pause=1000&lines=Selamat+datang+dan+silahkan+pergi" />
 </h1>
 <h3 align="center">Hai</h3>
 
